@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<Notes>
+    <Note id="1">   <!-- xml中的注释 -->
+        <CDate>2018-3-21</CDate>>
+        <content>发布python1</content>>
+        <UserID>tony</UserID>>
+    </Note>>   <!-- 对应于每一个Note id都要以</Note>结束 -->
+    <Note id="2">
+        <CDate>2018-3-22</CDate>>
+        <content>发布python2</content>>
+        <UserID>tony</UserID>>
+    </Note>>
+    <Note id="3">
+        <CDate>2018-3-23</CDate>>
+        <content>发布python3</content>>
+        <UserID>tony</UserID>>
+    </Note>>
+        <Note id="4">
+        <CDate>2018-3-24</CDate>>
+        <content>发布python4</content>>
+        <UserID>tony</UserID>>
+    </Note>>
+    <Note id="5">
+        <CDate>2018-3-25</CDate>>
+        <content>发布python5</content>>
+        <UserID>tony</UserID>>
+    </Note>>
+</Notes>   <!-- 对应于第二行的结尾-->

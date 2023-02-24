@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<note>
+    <to> Dr.Klaus </to>
+    <content>Hello, it is a test of xml file</content>
+    <from> Laurence </from>
+        <date>2023.02.21</date>
+</note>

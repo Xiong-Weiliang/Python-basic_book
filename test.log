@@ -1,0 +1,6 @@
+2023-02-20 08:58:49,286 - MainThread-(name)s-<module>-INFO-这是info信息
+2023-02-20 08:58:49,289 - MainThread-(name)s-<module>-WARNING-这是Warning信息
+2023-02-20 08:58:49,289 - MainThread-(name)s-<module>-ERROR-这是ERROR信息
+2023-02-20 08:58:49,289 - MainThread-(name)s-<module>-CRITICAL-这是Critical信息
+2023-02-20 08:58:49,289 - MainThread-(name)s-<module>-INFO-调用funlog函数
+2023-02-20 08:58:49,290 - MainThread-(name)s-funlog-INFO-进入了funlog函数
